@@ -1,0 +1,7 @@
+CREATE TABLE ALUNOS 
+    ( 
+     MAT_ALU INTEGER  NOT NULL , 
+     NOM_ALU VARCHAR (50)  NOT NULL , 
+    ) 
+;
+
